@@ -37,3 +37,7 @@ apscheduler>=3.10.0
 
 # Logging
 loguru>=0.7.0
+
+# Additional dependencies
+greenlet>=3.0.0
+email-validator>=2.0.0
