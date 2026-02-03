@@ -135,12 +135,8 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 - Neon (PostgreSQL)
 - Upstash (Redis)
 
-## 📄 License
-
-MIT License - Feel free to use and modify.
-
 ## 👤 Author
 
 **Prathamesh Dharmadhikari**
-- Software Engineer at FinIQ Consulting
+- Software Engineer
 - Specializing in AI/ML, Full-Stack Development
